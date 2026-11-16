@@ -1,0 +1,91 @@
+{
+  "product": {
+    "name": "Example adjustable drawer organiser",
+    "asin": "B0EXAMPLE01",
+    "amazon_url": "https://www.amazon.com/dp/B0EXAMPLE01",
+    "approval_status": "APPROVED_FOR_CONTENT",
+    "approval_date": "2026-11-16",
+    "buyer_problem": "Small kitchen drawers become cluttered.",
+    "target_buyer": "People organising compact kitchens",
+    "facts": [
+      {
+        "claim": "The organiser has adjustable dividers.",
+        "evidence": "Replace with a verified product specification and source."
+      }
+    ],
+    "caveats": [
+      "Measure the drawer before purchase; fit depends on dimensions."
+    ],
+    "affiliate_url": "[INSERT VERIFIED TAGGED AFFILIATE URL]"
+  },
+  "creative": {
+    "concept": "A practical way to organise a cluttered kitchen drawer",
+    "duration_seconds": 30,
+    "hooks": [
+      "Does your kitchen drawer look like this?",
+      "Before buying another organiser, measure your drawer.",
+      "A simple way to create sections in a kitchen drawer."
+    ],
+    "selected_hook": "Does your kitchen drawer look like this?",
+    "scenes": [
+      {
+        "start": 0,
+        "end": 5,
+        "visual": "Creator-owned footage of a cluttered drawer.",
+        "on_screen_text": "A drawer that never stays organised?",
+        "voiceover": "Does your kitchen drawer become cluttered no matter how often you tidy it?"
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "visual": "Show the actual product using creator-owned footage.",
+        "on_screen_text": "Adjustable dividers",
+        "voiceover": "This organiser uses adjustable dividers to separate items inside a drawer."
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "visual": "Show a clearly labelled illustrative arrangement.",
+        "on_screen_text": "Create sections that suit your drawer",
+        "voiceover": "You can arrange the sections around the items you want to store."
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "visual": "Show measuring the drawer, then a final product shot.",
+        "on_screen_text": "Measure first. Check the details.",
+        "voiceover": "Measure your drawer first and check the product details before choosing one."
+      }
+    ],
+    "voiceover": "Does your kitchen drawer become cluttered no matter how often you tidy it? This organiser uses adjustable dividers to separate items inside a drawer. You can arrange the sections around the items you want to store. Measure your drawer first and check the product details before choosing one.",
+    "cta": "Check the product details and dimensions through the link.",
+    "caption": "A practical drawer organisation idea. Check the dimensions and product details before buying.",
+    "keywords": [
+      "kitchen drawer organisation",
+      "adjustable drawer organiser",
+      "small kitchen storage"
+    ],
+    "hashtags": [
+      "#kitchenorganisation",
+      "#kitchenstorage",
+      "#ad"
+    ]
+  },
+  "assets": [
+    {
+      "asset": "Cluttered drawer opening shot",
+      "source": "Creator-recorded footage",
+      "rights_status": "owned"
+    },
+    {
+      "asset": "Product demonstration",
+      "source": "Creator-recorded footage of actual product",
+      "rights_status": "owned"
+    },
+    {
+      "asset": "Drawer measurement close-up",
+      "source": "Creator-recorded footage",
+      "rights_status": "owned"
+    }
+  ]
+}
